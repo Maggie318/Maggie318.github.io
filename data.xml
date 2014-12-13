@@ -1,5 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SiteData>
+  <DailyData id="template">
+  	<Text>
+  		<Left></Left>
+  		<Center></Center>
+  		<Right></Right>
+  		<Bottom></Bottom>
+  	</Text>
+  	<Song>
+  		<Title></Title>
+  		<Url></Url>
+  		<Artist></Artist>
+  		<ArtistUrl></ArtistUrl>
+  		<Note></Note>
+  	</Song>
+  	<Art>
+  		<Title></Title>
+  		<Url></Url>
+  		<Artist></Artist>
+  		<ArtistUrl></ArtistUrl>
+  		<Note></Note>
+  	</Art>
+  </DailyData>
   <DailyData id="13/12/2014">
   	<Text>
   		<Left>I</Left>
@@ -33,7 +55,7 @@
   		<Title>Looking Too Closely</Title>
   		<Url>https://www.youtube.com/watch?v=qoWRs7lXtYE</Url>
   		<Artist>Fink</Artist>
-  		<ArtistUrl>https://www.youtube.com/channel/UCtLPNVgupwHTf6f-5h0Kz1Qo</ArtistUrl>
+  		<ArtistUrl>https://www.youtube.com/user/finkvids</ArtistUrl>
   		<Note>Heard you like indie :)</Note>
   	</Song>
   	<Art>
@@ -42,6 +64,160 @@
   		<Artist>Vincent van Gogh</Artist>
   		<ArtistUrl>http://en.wikipedia.org/wiki/Vincent_van_Gogh</ArtistUrl>
   		<Note>I want it painted, framed and hanged in our house!</Note>
+  	</Art>
+  </DailyData>
+  <DailyData id="15/12/2014">
+  	<Text>
+  		<Left>Care for a</Left>
+  		<Center>Dinner</Center>
+  		<Right>today?</Right>
+  		<Bottom>There's a new player in town, might be worth checking out, love.</Bottom>
+  	</Text>
+  	<Song>
+  		<Title>Shout</Title>
+  		<Url>https://www.youtube.com/watch?v=Ye7FKc1JQe4</Url>
+  		<Artist>Tears For Fears</Artist>
+  		<ArtistUrl>https://www.youtube.com/user/TearsForFearsVEVO</ArtistUrl>
+  		<Note>This'll make your day!</Note>
+  	</Song>
+  	<Art>
+  		<Title>The Desperate Man</Title>
+  		<Url>http://upload.wikimedia.org/wikipedia/commons/3/30/Gustave_Courbet_-_Le_D%C3%A9sesp%C3%A9r%C3%A9.JPG</Url>
+  		<Artist>Gustave Courbet</Artist>
+  		<ArtistUrl>http://en.wikipedia.org/wiki/Gustave_Courbet</ArtistUrl>
+  		<Note>Just terrific</Note>
+  	</Art>
+  </DailyData>
+  <DailyData id="16/12/2014">
+  	<Text>
+  		<Left>I</Left>
+  		<Center>Hope</Center>
+  		<Right>to see you today</Right>
+  		<Bottom>Seriously it's worrisome that I want to spen every day with you</Bottom>
+  	</Text>
+  	<Song>
+  		<Title>Howlin' For You</Title>
+  		<Url>https://www.youtube.com/watch?v=TLSpj7q6_mM</Url>
+  		<Artist>Black Keys</Artist>
+  		<ArtistUrl>https://www.youtube.com/user/theblackkeys</ArtistUrl>
+  		<Note>Da da, da da ~~</Note>
+  	</Song>
+  	<Art>
+  		<Title></Title>
+  		<Url></Url>
+  		<Artist></Artist>
+  		<ArtistUrl></ArtistUrl>
+  		<Note></Note>
+  	</Art>
+  </DailyData>
+  <DailyData id="17/12/2014">
+  	<Text>
+  		<Left>I'll be</Left>
+  		<Center>Missing</Center>
+  		<Right>you today</Right>
+  		<Bottom>All work and no play makes Jack a dull boy</Bottom>
+  	</Text>
+  	<Song>
+  		<Title>Greenback Boogie</Title>
+  		<Url>https://www.youtube.com/watch?v=jNuwLaMK17A</Url>
+  		<Artist>Ima Robot</Artist>
+  		<ArtistUrl>https://www.youtube.com/channel/UCdvicdUT--beL9yjvbBoT1Q</ArtistUrl>
+  		<Note>This song gets me to work!</Note>
+  	</Song>
+  	<Art>
+  		<Title>The Fight Between Carnival and Lent</Title>
+  		<Url>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pieter_Bruegel_d._%C3%84._066.jpg/1024px-Pieter_Bruegel_d._%C3%84._066.jpg</Url>
+  		<Artist>Pieter Bruegel the Elder</Artist>
+  		<ArtistUrl>http://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder</ArtistUrl>
+  		<Note>I like the idea standing behind this piece and all the details</Note>
+  	</Art>
+  </DailyData>
+  <DailyData id="18/12/2014">
+  	<Text>
+  		<Left>Have a</Left>
+  		<Center>Great</Center>
+  		<Right>Day</Right>
+  		<Bottom></Bottom>
+  	</Text>
+  	<Song>
+  		<Title></Title>
+  		<Url></Url>
+  		<Artist></Artist>
+  		<ArtistUrl></ArtistUrl>
+  		<Note></Note>
+  	</Song>
+  	<Art>
+  		<Title></Title>
+  		<Url></Url>
+  		<Artist></Artist>
+  		<ArtistUrl></ArtistUrl>
+  		<Note></Note>
+  	</Art>
+  </DailyData>
+  <DailyData id="19/12/2014">
+  	<Text>
+  		<Left></Left>
+  		<Center></Center>
+  		<Right></Right>
+  		<Bottom></Bottom>
+  	</Text>
+  	<Song>
+  		<Title></Title>
+  		<Url></Url>
+  		<Artist></Artist>
+  		<ArtistUrl></ArtistUrl>
+  		<Note></Note>
+  	</Song>
+  	<Art>
+  		<Title></Title>
+  		<Url></Url>
+  		<Artist></Artist>
+  		<ArtistUrl></ArtistUrl>
+  		<Note></Note>
+  	</Art>
+  </DailyData>
+  <DailyData id="20/12/2014">
+  	<Text>
+  		<Left></Left>
+  		<Center></Center>
+  		<Right></Right>
+  		<Bottom></Bottom>
+  	</Text>
+  	<Song>
+  		<Title></Title>
+  		<Url></Url>
+  		<Artist></Artist>
+  		<ArtistUrl></ArtistUrl>
+  		<Note></Note>
+  	</Song>
+  	<Art>
+  		<Title></Title>
+  		<Url></Url>
+  		<Artist></Artist>
+  		<ArtistUrl></ArtistUrl>
+  		<Note></Note>
+  	</Art>
+  </DailyData>
+  <DailyData id="21/12/2014">
+  	<Text>
+  		<Left></Left>
+  		<Center></Center>
+  		<Right></Right>
+  		<Bottom></Bottom>
+  	</Text>
+  	<Song>
+  		<Title></Title>
+  		<Url></Url>
+  		<Artist></Artist>
+  		<ArtistUrl></ArtistUrl>
+  		<Note></Note>
+  	</Song>
+  	<Art>
+  		<Title></Title>
+  		<Url></Url>
+  		<Artist></Artist>
+  		<ArtistUrl></ArtistUrl>
+  		<Note></Note>
   	</Art>
   </DailyData>
 </SiteData>
