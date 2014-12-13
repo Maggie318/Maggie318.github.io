@@ -22,16 +22,16 @@ function getData()
 		rightHandWords: "You",
 		bottomSentence:  "My sweet Magdalena",
 		
-		songTitle: "Shine On Your Crazy Diamond",
-		songTitleUrl: "http://google.com",
+		songTitle: "Shine On You Crazy Diamond",
+		songTitleUrl: "https://www.youtube.com/watch?v=8UXircX3VdM",
 		songPerformer: "Pink Floyd",
-		songPerformerUrl: "http://google.com",
+		songPerformerUrl: "https://www.youtube.com/user/OfficialPinkFloyd",
 		songNote: "It's just a pure orgasm for the ears!",
 		
 		artTitle: "The Starry Night Over The Rhone",
-		artUrl: "http://google.com",
+		artUrl: "http://upload.wikimedia.org/wikipedia/commons/9/94/Starry_Night_Over_the_Rhone.jpg",
 		artistName: "Van Gogh",
-		artistUrl: "http://google.com",
+		artistUrl: "http://en.wikipedia.org/wiki/Vincent_van_Gogh",
 		artNote: "It doesn't get better than this!"
 	};
 
@@ -39,7 +39,7 @@ function getData()
 		var xmlDoc = loadXMLDoc("data.xml");
 
 		var today = new Date();
-		var dd = today.getDate() + 1;
+		var dd = today.getDate();
 		var mm = today.getMonth()+1; //January is 0!
 		var yyyy = today.getFullYear();
 		if(dd<10){
@@ -64,8 +64,8 @@ function getData()
 		
 		data.artTitle = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("Title")[0].childNodes[0].nodeValue;
 		data.artTitleUrl = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("Url")[0].childNodes[0].nodeValue;
-		data.artPerformer = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("Artist")[0].childNodes[0].nodeValue;
-		data.artPerformerUrl = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("ArtistUrl")[0].childNodes[0].nodeValue;
+		data.artistName = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("Artist")[0].childNodes[0].nodeValue;
+		data.artistUrl = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("ArtistUrl")[0].childNodes[0].nodeValue;
 		data.artNote = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("Note")[0].childNodes[0].nodeValue;
 	}
 	catch(err)
