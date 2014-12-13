@@ -1,0 +1,57 @@
+@import url(http://fonts.googleapis.com/css?family=Marck+Script|Annie+Use+Your+Telescope|Amatic+SC:700);
+
+.sentence{
+	text-align: center;
+	display: block;
+	margin: 0 auto auto 1%;
+}
+.sentence.first{
+	margin-top: 3%;
+}
+.circle{
+	display: inline-block;
+	border-radius: 50%;
+	width: 300px;
+	height: 300px; 
+	background-color: black;
+}
+
+.outsideCircleText {
+    position: relative;
+	bottom: 100px;	
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 120px;
+	color: black; 	
+}
+#left{
+	right: 15px;
+}
+#right{
+	left: 15px;
+}
+.insideCircleText{
+	display: table-cell;
+    vertical-align: middle;
+	text-align: center;
+	color: white;
+	height: 300px;
+	width: 300px;
+	font-family: 'Amatic SC', cursive;
+	word-break: keep-all;
+}
+
+.bottomText{
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 48px;
+	color: black;
+}
+
+.rowOffset{
+	margin-top: 2%;
+}
+
+.normalText{
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 24px;
+	color: black;
+}

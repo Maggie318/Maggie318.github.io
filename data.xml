@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SiteData>
+  <DailyData id="13/12/2014">
+  	<Text>
+  		<Left>I</Left>
+  		<Center>Miss</Center>
+  		<Right>You</Right>
+  		<Bottom>My love</Bottom>
+  	</Text>
+  	<Song>
+  		<Title>Feeling Good</Title>
+  		<Url>https://www.youtube.com/watch?v=D5Y11hwjMNs</Url>
+  		<Artist>Nina Simone</Artist>
+  		<ArtistUrl>https://www.youtube.com/channel/UCqj1HtTq76Bo6rBXNwrF5Uw</ArtistUrl>
+  		<Note>That's how I feel by your side!</Note>
+  	</Song>
+  	<Art>
+  		<Title>Starry Night Over the Rhone</Title>
+  		<Url>http://upload.wikimedia.org/wikipedia/commons/9/94/Starry_Night_Over_the_Rhone.jpg</Url>
+  		<Artist>Vincent van Gogh</Artist>
+  		<ArtistUrl>http://en.wikipedia.org/wiki/Vincent_van_Gogh</ArtistUrl>
+  		<Note>I want it painted and framed over my bed!</Note>
+  	</Art>
+  </DailyData>
+  <DailyData id="14/12/2014">
+  	<Text>
+  		<Left>I</Left>
+  		<Center>Love</Center>
+  		<Right>You</Right>
+  		<Bottom>My dearest friend</Bottom>
+  	</Text>
+  	<Song>
+  		<Title>Looking Too Closely</Title>
+  		<Url>https://www.youtube.com/watch?v=qoWRs7lXtYE</Url>
+  		<Artist>Fink</Artist>
+  		<ArtistUrl>https://www.youtube.com/channel/UCtLPNVgupwHTf6f-5h0Kz1Qo</ArtistUrl>
+  		<Note>Heard you like indie :)</Note>
+  	</Song>
+  	<Art>
+  		<Title>Starry Night Over the Rhone</Title>
+  		<Url>http://upload.wikimedia.org/wikipedia/commons/9/94/Starry_Night_Over_the_Rhone.jpg</Url>
+  		<Artist>Vincent van Gogh</Artist>
+  		<ArtistUrl>http://en.wikipedia.org/wiki/Vincent_van_Gogh</ArtistUrl>
+  		<Note>I want it painted, framed and hanged in our house!</Note>
+  	</Art>
+  </DailyData>
+</SiteData>
