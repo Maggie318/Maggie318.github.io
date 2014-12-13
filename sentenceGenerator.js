@@ -38,15 +38,21 @@ function getData()
 	try{
 		var xmlDoc = loadXMLDoc("data.xml");
 
-		var today = new Date();
-		var dd = today.getDate();
-		var mm = today.getMonth()+1; //January is 0!
-		var yyyy = today.getFullYear();
+		var date = new Date().toLocaleString("en-GB");
+		var stringTable = date.split(" ");
+		var hour = stringTable[1].split(":")[0];
+		var dd = stringTable[0].split("/")[0];
+		var mm = stringTable[0].split("/")[1];
+		var yyyy = stringTable[0].split("/")[2];
 		if(dd<10){
 			dd='0'+dd
 		} 
 		if(mm<10){
 			mm='0'+mm
+		}
+		if(hour < 5 && dd > 1)
+		{
+			dd = dd - 1;
 		}
 
 		var currentId = dd + "/" + mm + "/" + yyyy;
