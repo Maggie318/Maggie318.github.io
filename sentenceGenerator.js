@@ -55,7 +55,7 @@ function getData()
 			dd = dd - 1;
 		}
 
-		var currentId = (dd-1) + "/" + mm + "/" + yyyy;
+		var currentId = dd + "/" + mm + "/" + yyyy;
 
 		data.leftHandWords = xmlDoc.getElementById(currentId).getElementsByTagName("Text")[0].getElementsByTagName("Left")[0].childNodes[0].nodeValue;
 		data.insideCircleWords = xmlDoc.getElementById(currentId).getElementsByTagName("Text")[0].getElementsByTagName("Center")[0].childNodes[0].nodeValue;
