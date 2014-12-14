@@ -217,7 +217,29 @@
 			<Url>http://www.edwardhopper.net/images/paintings/early-sunday-morning.jpg</Url>
 			<Artist>Edward Hopper</Artist>
 			<ArtistUrl>http://en.wikipedia.org/wiki/Edward_Hopper</ArtistUrl>
-			<Note>You must give at least one lazy Sunday with you!</Note>
+			<Note>You must give me at least one lazy Sunday with you!</Note>
 		</Art>
+	</DailyData>
+	<DailyData id="24/12/2014">
+	<Text>
+		<Left>I</Left>
+		<Center>Want</Center>
+		<Right>to be by your side</Right>
+		<Bottom>For the whole day...    Anyway Merry Christmas! </Bottom>
+	</Text>
+	<Song>
+		<Title>Dear God</Title>
+		<Url><Url>
+		<Artist></Artist>
+		<ArtistUrl></ArtistUrl>
+		<Note></Note>
+	</Song>
+	<Art>
+		<Title></Title>
+		<Url></Url>
+		<Artist></Artist>
+		<ArtistUrl></ArtistUrl>
+		<Note></Note>
+	</Art>
 	</DailyData>
 </SiteData>
