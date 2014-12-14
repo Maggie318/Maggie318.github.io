@@ -37,11 +37,11 @@
 			<Note>That's how I feel by your side!</Note>
 		</Song>
 		<Art>
-			<Title>Cafe Terrace At Night</Title>
-			<Url>http://img.phombo.com/img1/photocombo/42/Cafe-Terrace-At-Night.jpg</Url>
-			<Artist>Vincent van Gogh</Artist>
-			<ArtistUrl>http://en.wikipedia.org/wiki/Vincent_van_Gogh</ArtistUrl>
-			<Note>I've got a copy in my living room, want to see it?</Note>
+			<Title>Two Men Contemplating the Moon</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/5/55/Friedrich_-_Two_Men_Contemplating_the_Moon.jpg</Url>
+			<Artist>Caspar David Friedrich</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Caspar_David_Friedrich</ArtistUrl>
+			<Note>The calm luxuriance of blissful light...</Note>
 		</Art>
 	</DailyData>
 	<DailyData id="14/12/2014">
@@ -191,11 +191,11 @@
 			<Note>Never mind the lyrics, honey</Note>
 		</Song>
 		<Art>
-			<Title>Two Men Contemplating the Moon</Title>
-			<Url>http://upload.wikimedia.org/wikipedia/commons/5/55/Friedrich_-_Two_Men_Contemplating_the_Moon.jpg</Url>
-			<Artist>Caspar David Friedrich</Artist>
-			<ArtistUrl>http://en.wikipedia.org/wiki/Caspar_David_Friedrich</ArtistUrl>
-			<Note>The calm luxuriance of blissful light...</Note>
+			<Title>Cafe Terrace At Night</Title>
+			<Url>http://img.phombo.com/img1/photocombo/42/Cafe-Terrace-At-Night.jpg</Url>
+			<Artist>Vincent van Gogh</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Vincent_van_Gogh</ArtistUrl>
+			<Note>I've got a copy in my living room, want to see it?</Note>
 		</Art>
 	</DailyData>
 	<DailyData id="21/12/2014">
