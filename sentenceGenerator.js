@@ -44,15 +44,14 @@ function getData()
 		var dd = stringTable[0].split("/")[0];
 		var mm = stringTable[0].split("/")[1];
 		var yyyy = stringTable[0].split("/")[2];
+		if(hour < 5 && dd > 1){
+			dd = dd - 1;
+		}
 		if(dd<10){
 			dd='0'+dd;
 		} 
 		if(mm<10){
 			mm='0'+mm;
-		}
-		if(hour < 5 && dd > 1)
-		{
-			dd = dd - 1;
 		}
 
 		var currentId = dd + "/" + mm + "/" + yyyy;
