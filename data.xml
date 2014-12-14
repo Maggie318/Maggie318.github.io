@@ -1,223 +1,223 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SiteData>
-  <DailyData id="template">
-  	<Text>
-  		<Left></Left>
-  		<Center></Center>
-  		<Right></Right>
-  		<Bottom></Bottom>
-  	</Text>
-  	<Song>
-  		<Title></Title>
-  		<Url></Url>
-  		<Artist></Artist>
-  		<ArtistUrl></ArtistUrl>
-  		<Note></Note>
-  	</Song>
-  	<Art>
-  		<Title></Title>
-  		<Url></Url>
-  		<Artist></Artist>
-  		<ArtistUrl></ArtistUrl>
-  		<Note></Note>
-  	</Art>
-  </DailyData>
-  <DailyData id="13/12/2014">
-  	<Text>
-  		<Left>I</Left>
-  		<Center>Miss</Center>
-  		<Right>You</Right>
-  		<Bottom>My love</Bottom>
-  	</Text>
-  	<Song>
-  		<Title>Feeling Good</Title>
-  		<Url>https://www.youtube.com/watch?v=D5Y11hwjMNs</Url>
-  		<Artist>Nina Simone</Artist>
-  		<ArtistUrl>https://www.youtube.com/channel/UCqj1HtTq76Bo6rBXNwrF5Uw</ArtistUrl>
-  		<Note>That's how I feel by your side!</Note>
-  	</Song>
-  	<Art>
-  		<Title>Starry Night Over the Rhone</Title>
-  		<Url>http://upload.wikimedia.org/wikipedia/commons/9/94/Starry_Night_Over_the_Rhone.jpg</Url>
-  		<Artist>Vincent van Gogh</Artist>
-  		<ArtistUrl>http://en.wikipedia.org/wiki/Vincent_van_Gogh</ArtistUrl>
-  		<Note>I want it painted and framed over my bed!</Note>
-  	</Art>
-  </DailyData>
-  <DailyData id="14/12/2014">
-  	<Text>
-  		<Left>I</Left>
-  		<Center>Love</Center>
-  		<Right>You</Right>
-  		<Bottom>My dearest friend</Bottom>
-  	</Text>
-  	<Song>
-  		<Title>Looking Too Closely</Title>
-  		<Url>https://www.youtube.com/watch?v=qoWRs7lXtYE</Url>
-  		<Artist>Fink</Artist>
-  		<ArtistUrl>https://www.youtube.com/user/finkvids</ArtistUrl>
-  		<Note>Heard you like indie :)</Note>
-  	</Song>
-  	<Art>
-  		<Title>Starry Night Over the Rhone</Title>
-  		<Url>http://upload.wikimedia.org/wikipedia/commons/9/94/Starry_Night_Over_the_Rhone.jpg</Url>
-  		<Artist>Vincent van Gogh</Artist>
-  		<ArtistUrl>http://en.wikipedia.org/wiki/Vincent_van_Gogh</ArtistUrl>
-  		<Note>I want it painted, framed and hanged in our house!</Note>
-  	</Art>
-  </DailyData>
-  <DailyData id="15/12/2014">
-  	<Text>
-  		<Left>Care for a</Left>
-  		<Center>Dinner</Center>
-  		<Right>today?</Right>
-  		<Bottom>There's a new player in town, might be worth checking out, love.</Bottom>
-  	</Text>
-  	<Song>
-  		<Title>Shout</Title>
-  		<Url>https://www.youtube.com/watch?v=Ye7FKc1JQe4</Url>
-  		<Artist>Tears For Fears</Artist>
-  		<ArtistUrl>https://www.youtube.com/user/TearsForFearsVEVO</ArtistUrl>
-  		<Note>This'll make your day!</Note>
-  	</Song>
-  	<Art>
-  		<Title>The Desperate Man</Title>
-  		<Url>http://upload.wikimedia.org/wikipedia/commons/3/30/Gustave_Courbet_-_Le_D%C3%A9sesp%C3%A9r%C3%A9.JPG</Url>
-  		<Artist>Gustave Courbet</Artist>
-  		<ArtistUrl>http://en.wikipedia.org/wiki/Gustave_Courbet</ArtistUrl>
-  		<Note>Just terrific</Note>
-  	</Art>
-  </DailyData>
-  <DailyData id="16/12/2014">
-  	<Text>
-  		<Left>I</Left>
-  		<Center>Hope</Center>
-  		<Right>to see you today</Right>
-  		<Bottom>Seriously it's worrisome that I want to spen every day with you</Bottom>
-  	</Text>
-  	<Song>
-  		<Title>Howlin' For You</Title>
-  		<Url>https://www.youtube.com/watch?v=TLSpj7q6_mM</Url>
-  		<Artist>Black Keys</Artist>
-  		<ArtistUrl>https://www.youtube.com/user/theblackkeys</ArtistUrl>
-  		<Note>Da da, da da ~~</Note>
-  	</Song>
-  	<Art>
-  		<Title></Title>
-  		<Url></Url>
-  		<Artist></Artist>
-  		<ArtistUrl></ArtistUrl>
-  		<Note></Note>
-  	</Art>
-  </DailyData>
-  <DailyData id="17/12/2014">
-  	<Text>
-  		<Left>I'll be</Left>
-  		<Center>Missing</Center>
-  		<Right>you today</Right>
-  		<Bottom>All work and no play makes Jack a dull boy</Bottom>
-  	</Text>
-  	<Song>
-  		<Title>Greenback Boogie</Title>
-  		<Url>https://www.youtube.com/watch?v=jNuwLaMK17A</Url>
-  		<Artist>Ima Robot</Artist>
-  		<ArtistUrl>https://www.youtube.com/channel/UCdvicdUT--beL9yjvbBoT1Q</ArtistUrl>
-  		<Note>This song gets me to work!</Note>
-  	</Song>
-  	<Art>
-  		<Title>The Fight Between Carnival and Lent</Title>
-  		<Url>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pieter_Bruegel_d._%C3%84._066.jpg/1024px-Pieter_Bruegel_d._%C3%84._066.jpg</Url>
-  		<Artist>Pieter Bruegel the Elder</Artist>
-  		<ArtistUrl>http://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder</ArtistUrl>
-  		<Note>I like the idea standing behind this piece and all the details</Note>
-  	</Art>
-  </DailyData>
-  <DailyData id="18/12/2014">
-  	<Text>
-  		<Left>Have a</Left>
-  		<Center>Great</Center>
-  		<Right>Day</Right>
-  		<Bottom>Sweetheart</Bottom>
-  	</Text>
-  	<Song>
-  		<Title></Title>
-  		<Url></Url>
-  		<Artist></Artist>
-  		<ArtistUrl></ArtistUrl>
-  		<Note></Note>
-  	</Song>
-  	<Art>
-  		<Title></Title>
-  		<Url></Url>
-  		<Artist></Artist>
-  		<ArtistUrl></ArtistUrl>
-  		<Note></Note>
-  	</Art>
-  </DailyData>
-  <DailyData id="19/12/2014">
-  	<Text>
-  		<Left></Left>
-  		<Center></Center>
-  		<Right></Right>
-  		<Bottom></Bottom>
-  	</Text>
-  	<Song>
-  		<Title></Title>
-  		<Url></Url>
-  		<Artist></Artist>
-  		<ArtistUrl></ArtistUrl>
-  		<Note></Note>
-  	</Song>
-  	<Art>
-  		<Title></Title>
-  		<Url></Url>
-  		<Artist></Artist>
-  		<ArtistUrl></ArtistUrl>
-  		<Note></Note>
-  	</Art>
-  </DailyData>
-  <DailyData id="20/12/2014">
-  	<Text>
-  		<Left></Left>
-  		<Center></Center>
-  		<Right></Right>
-  		<Bottom></Bottom>
-  	</Text>
-  	<Song>
-  		<Title></Title>
-  		<Url></Url>
-  		<Artist></Artist>
-  		<ArtistUrl></ArtistUrl>
-  		<Note></Note>
-  	</Song>
-  	<Art>
-  		<Title></Title>
-  		<Url></Url>
-  		<Artist></Artist>
-  		<ArtistUrl></ArtistUrl>
-  		<Note></Note>
-  	</Art>
-  </DailyData>
-  <DailyData id="21/12/2014">
-  	<Text>
-  		<Left></Left>
-  		<Center></Center>
-  		<Right></Right>
-  		<Bottom></Bottom>
-  	</Text>
-  	<Song>
-  		<Title></Title>
-  		<Url></Url>
-  		<Artist></Artist>
-  		<ArtistUrl></ArtistUrl>
-  		<Note></Note>
-  	</Song>
-  	<Art>
-  		<Title></Title>
-  		<Url></Url>
-  		<Artist></Artist>
-  		<ArtistUrl></ArtistUrl>
-  		<Note></Note>
-  	</Art>
-  </DailyData>
+	<DailyData id="template">
+		<Text>
+			<Left></Left>
+			<Center></Center>
+			<Right></Right>
+			<Bottom></Bottom>
+		</Text>
+		<Song>
+			<Title></Title>
+			<Url></Url>
+			<Artist></Artist>
+			<ArtistUrl></ArtistUrl>
+			<Note></Note>
+		</Song>
+		<Art>
+			<Title></Title>
+			<Url></Url>
+			<Artist></Artist>
+			<ArtistUrl></ArtistUrl>
+			<Note></Note>
+		</Art>
+	</DailyData>
+	<DailyData id="13/12/2014">
+		<Text>
+			<Left>I</Left>
+			<Center>Miss</Center>
+			<Right>You</Right>
+			<Bottom>My love</Bottom>
+		</Text>
+		<Song>
+			<Title>Feeling Good</Title>
+			<Url>https://www.youtube.com/watch?v=D5Y11hwjMNs</Url>
+			<Artist>Nina Simone</Artist>
+			<ArtistUrl>https://www.youtube.com/channel/UCqj1HtTq76Bo6rBXNwrF5Uw</ArtistUrl>
+			<Note>That's how I feel by your side!</Note>
+		</Song>
+		<Art>
+			<Title>Cafe Terrace At Night</Title>
+			<Url>http://img.phombo.com/img1/photocombo/42/Cafe-Terrace-At-Night.jpg</Url>
+			<Artist>Vincent van Gogh</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Vincent_van_Gogh</ArtistUrl>
+			<Note>I've got a copy in my living room, want to see it?</Note>
+		</Art>
+	</DailyData>
+	<DailyData id="14/12/2014">
+		<Text>
+			<Left>I</Left>
+			<Center>Love</Center>
+			<Right>You</Right>
+			<Bottom>My dearest friend</Bottom>
+		</Text>
+		<Song>
+			<Title>Looking Too Closely</Title>
+			<Url>https://www.youtube.com/watch?v=qoWRs7lXtYE</Url>
+			<Artist>Fink</Artist>
+			<ArtistUrl>https://www.youtube.com/user/finkvids</ArtistUrl>
+			<Note>Heard you like indie :)</Note>
+		</Song>
+		<Art>
+			<Title>Starry Night Over the Rhone</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/9/94/Starry_Night_Over_the_Rhone.jpg</Url>
+			<Artist>Vincent van Gogh</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Vincent_van_Gogh</ArtistUrl>
+			<Note>I want it painted, framed and hanged in our house!</Note>
+		</Art>
+	</DailyData>
+	<DailyData id="15/12/2014">
+		<Text>
+			<Left>Care for a</Left>
+			<Center>Dinner</Center>
+			<Right>today?</Right>
+			<Bottom>There's a new player in town, might be worth checking out, love</Bottom>
+		</Text>
+		<Song>
+			<Title>Shout</Title>
+			<Url>https://www.youtube.com/watch?v=Ye7FKc1JQe4</Url>
+			<Artist>Tears For Fears</Artist>
+			<ArtistUrl>https://www.youtube.com/user/TearsForFearsVEVO</ArtistUrl>
+			<Note>This'll make your day!</Note>
+		</Song>
+		<Art>
+			<Title>The Desperate Man</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/3/30/Gustave_Courbet_-_Le_D%C3%A9sesp%C3%A9r%C3%A9.JPG</Url>
+			<Artist>Gustave Courbet</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Gustave_Courbet</ArtistUrl>
+			<Note>Just terrific</Note>
+		</Art>
+	</DailyData>
+	<DailyData id="16/12/2014">
+		<Text>
+			<Left>I</Left>
+			<Center>Hope</Center>
+			<Right>to see you today</Right>
+			<Bottom>Seriously it's worrisome that I want to spend every day with you</Bottom>
+		</Text>
+		<Song>
+			<Title>Howlin' For You</Title>
+			<Url>https://www.youtube.com/watch?v=TLSpj7q6_mM</Url>
+			<Artist>Black Keys</Artist>
+			<ArtistUrl>https://www.youtube.com/user/theblackkeys</ArtistUrl>
+			<Note>Da da, da da ~~</Note>
+		</Song>
+		<Art>
+			<Title>Max Schmitt in a Single Scull</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/4/48/Max_Schmitt_in_a_Single_Scull.jpg</Url>
+			<Artist>Thomas Eakins</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Thomas_Eakins</ArtistUrl>
+			<Note>Look at the details!</Note>
+		</Art>
+	</DailyData>
+	<DailyData id="17/12/2014">
+		<Text>
+			<Left>Have a</Left>
+			<Center>Great</Center>
+			<Right>Day</Right>
+			<Bottom>It's been a month since you became my sweetheart :)</Bottom>
+		</Text>
+		<Song>
+			<Title>Angel of Small Death and the Codeine Scene</Title>
+			<Url>https://www.youtube.com/watch?v=YpdzZbTs2qo</Url>
+			<Artist>Hozier</Artist>
+			<ArtistUrl>https://www.youtube.com/user/HozierMusic</ArtistUrl>
+			<Note>Click on the artist link - 'Take me to Church' is nice too</Note>
+		</Song>
+		<Art>
+			<Title>Saint Jermoe</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/d/db/Caravaggio_-_San_Gerolamo.jpg</Url>
+			<Artist>Caravaggio</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Caravaggio</ArtistUrl>
+			<Note>Take a look at the first canto of Keat's 'The Fall Of Hyperion' - this picture kinda reminds me of it</Note>
+		</Art>
+	</DailyData>
+	<DailyData id="18/12/2014">
+		<Text>
+			<Left>I'll be</Left>
+			<Center>Missing</Center>
+			<Right>you today</Right>
+			<Bottom>All work and no play makes Jack a dull boy</Bottom>
+		</Text>
+		<Song>
+			<Title>Greenback Boogie</Title>
+			<Url>https://www.youtube.com/watch?v=jNuwLaMK17A</Url>
+			<Artist>Ima Robot</Artist>
+			<ArtistUrl>https://www.youtube.com/channel/UCdvicdUT--beL9yjvbBoT1Q</ArtistUrl>
+			<Note>This song gets me to work!</Note>
+		</Song>
+		<Art>
+			<Title>The Fight Between Carnival and Lent</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Pieter_Bruegel_d._%C3%84._066.jpg/1024px-Pieter_Bruegel_d._%C3%84._066.jpg</Url>
+			<Artist>Pieter Bruegel the Elder</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder</ArtistUrl>
+			<Note>I like the idea standing behind this piece and all the details</Note>
+		</Art>
+	</DailyData>
+	<DailyData id="19/12/2014">
+		<Text>
+			<Left>At last,</Left>
+			<Center>Friday</Center>
+			<Right>is here!</Right>
+			<Bottom>Gonna need lots of cuddlin' tonite!</Bottom>
+		</Text>
+		<Song>
+			<Title>White Room</Title>
+			<Url>https://www.youtube.com/watch?v=pkae0-TgrRU</Url>
+			<Artist>Cream</Artist>
+			<ArtistUrl>https://www.youtube.com/channel/UC_oKib7DXJ7JE5erWrFUbEQ</ArtistUrl>
+			<Note>Perfect with your morning coffee :)</Note>
+		</Song>
+		<Art>
+			<Title>Nighthawks</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/a/a8/Nighthawks_by_Edward_Hopper_1942.jpg</Url>
+			<Artist>Edward Hopper</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Edward_Hopper</ArtistUrl>
+			<Note>There's a hidden quality to this masterpiece - don't know why but this painting really gets into my head</Note>
+		</Art>
+	</DailyData>
+	<DailyData id="20/12/2014">
+		<Text>
+			<Left>I</Left>
+			<Center>Adore</Center>
+			<Right>You</Right>
+			<Bottom>You're the best thing that has ever happened to me</Bottom>
+		</Text>
+		<Song>
+			<Title>I Let Love In</Title>
+			<Url>https://www.youtube.com/watch?v=FYaRpBAvESg</Url>
+			<Artist>Nick Cave</Artist>
+			<ArtistUrl>https://www.youtube.com/channel/UCVDPBs1TLg2oQPKd6JnPKYg</ArtistUrl>
+			<Note>Never mind the lyrics, honey</Note>
+		</Song>
+		<Art>
+			<Title>Two Men Contemplating the Moon</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/5/55/Friedrich_-_Two_Men_Contemplating_the_Moon.jpg</Url>
+			<Artist>Caspar David Friedrich</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Caspar_David_Friedrich</ArtistUrl>
+			<Note>The calm luxuriance of blissful light...</Note>
+		</Art>
+	</DailyData>
+	<DailyData id="21/12/2014">
+		<Text>
+			<Left> </Left>
+			<Center>Wish</Center>
+			<Right>to spend every moment with you</Right>
+			<Bottom> </Bottom>
+		</Text>
+		<Song>
+			<Title>The Battle Of Evermore</Title>
+			<Url>https://www.youtube.com/watch?v=-21AtiWV3TE</Url>
+			<Artist>Led Zeppelin</Artist>
+			<ArtistUrl>https://www.youtube.com/channel/UCYtap7ujIPaxTS2iCDoMi3g</ArtistUrl>
+			<Note>The song's so magical!</Note>
+		</Song>
+		<Art>
+			<Title>Early Sunday Morning</Title>
+			<Url>http://www.edwardhopper.net/images/paintings/early-sunday-morning.jpg</Url>
+			<Artist>Edward Hopper</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Edward_Hopper</ArtistUrl>
+			<Note>You must give at least one lazy Sunday with you!</Note>
+		</Art>
+	</DailyData>
 </SiteData>
