@@ -68,7 +68,7 @@ function getData()
 		data.songNote = xmlDoc.getElementById(currentId).getElementsByTagName("Song")[0].getElementsByTagName("Note")[0].childNodes[0].nodeValue;
 		
 		data.artTitle = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("Title")[0].childNodes[0].nodeValue;
-		data.artTitleUrl = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("Url")[0].childNodes[0].nodeValue;
+		data.artUrl = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("Url")[0].childNodes[0].nodeValue;
 		data.artistName = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("Artist")[0].childNodes[0].nodeValue;
 		data.artistUrl = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("ArtistUrl")[0].childNodes[0].nodeValue;
 		data.artNote = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("Note")[0].childNodes[0].nodeValue;
