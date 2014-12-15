@@ -8,39 +8,39 @@
 	<link rel="stylesheet" type="text/css" href="bootstrap.css"> 
 </head>
 <body>
-<div class="container">
-	<div class="sentence first" id="upperSentence">
-		<span class="outsideCircleText" id="left" data-bind="text: leftHandWords"></span>
-		<div class="circle">
-			<span class="insideCircleText"  data-bind="text: insideCircleWords"></span>
-		</div>
-		<span class="outsideCircleText" id="right" data-bind="text: rightHandWords"></span>
-	</div>
-	<div class="clearfix"/>
-	<div class="sentence">
-		<span class="bottomText" data-bind="text: bottomSentence"></span>
-
-		<div class="row rowOffset normalText">
-			<div class="col-md-6">
-					<span class="normalText">Fancy a song?</span>
-					</br>
-					<span>Listen to <a target="_blank" data-bind="attr: { href: songTitleUrl, title: songTitle},text : songTitle"></a></span>
-					</br>
-					<span>by <a target="_blank" data-bind="attr: { href: songPerformerUrl, title: songPerformer},text : songPerformer"></a></span>
-					</br>
-					<span data-bind="text: songNote"></span>
+	<div class="container">
+		<div class="sentence first" id="upperSentence">
+			<span class="outsideCircleText" id="left" data-bind="text: leftHandWords"></span>
+			<div class="circle">
+				<span class="insideCircleText"  data-bind="text: insideCircleWords"></span>
 			</div>
-			<div class="col-md-6">
-					<span>Have you checked today's piece of art, honey?</span>
-					</br>
-					<span>It's the <a target="_blank" data-bind="attr: { href: artUrl, title: artTitle},text : artTitle"></a><span>
-					</br>
-					<span>by <a target="_blank" data-bind="attr: { href: artistUrl, title: artistName},text : artistName"></a></span>
-					</br>
-					<span data-bind="text: artNote"></span>
+			<span class="outsideCircleText" id="right" data-bind="text: rightHandWords"></span>
+		</div>
+		<div class="clearfix"></div>
+		<div class="sentence">
+			<span class="bottomText" data-bind="text: bottomSentence"></span>
+	
+			<div class="row rowOffset normalText">
+				<div class="col-md-6">
+						<span class="normalText">Fancy a song?</span>
+						</br>
+						<span>Listen to <a target="_blank" data-bind="attr: { href: songTitleUrl, title: songTitle},text : songTitle"></a></span>
+						</br>
+						<span>by <a target="_blank" data-bind="attr: { href: songPerformerUrl, title: songPerformer},text : songPerformer"></a></span>
+						</br>
+						<span data-bind="text: songNote"></span>
+				</div>
+				<div class="col-md-6">
+						<span>Have you checked today's piece of art, honey?</span>
+						</br>
+						<span>It's the <a target="_blank" data-bind="attr: { href: artUrl, title: artTitle},text : artTitle"></a><span>
+						</br>
+						<span>by <a target="_blank" data-bind="attr: { href: artistUrl, title: artistName},text : artistName"></a></span>
+						</br>
+						<span data-bind="text: artNote"></span>
+				</div>
 			</div>
 		</div>
-	</div>
 	</div>
 </body>
 
