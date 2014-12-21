@@ -97,7 +97,7 @@
 		</Text>
 		<Song>
 			<Title>Howlin' For You</Title>
-			<Url>https://www.youtube.com/watch?v=VF6-J5BCxWM</Url>
+			<Url>https://www.youtube.com/watch?v=TLSpj7q6_mM</Url>
 			<Artist>Black Keys</Artist>
 			<ArtistUrl>https://www.youtube.com/user/theblackkeys</ArtistUrl>
 			<Note>Da da, da da ~~</Note>
@@ -220,6 +220,50 @@
 			<Note>You must give me at least one lazy Sunday with you!</Note>
 		</Art>
 	</DailyData>
+	<DailyData id="22/12/2014">
+		<Text>
+			<Left> </Left>
+			<Center>♥</Center>
+			<Right> </Right>
+			<Bottom>A thing of beauty is a joy for ever</Bottom>
+		</Text>
+		<Song>
+			<Title>Partita No. 2 - Giga</Title>
+			<Url>http://youtu.be/6KaYzgofHjc?t=12m3s</Url>
+			<Artist>Johann Sebastian Bach</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Johann_Sebastian_Bach</ArtistUrl>
+			<Note>This part truly shows Bach's polyphonic genius</Note>
+		</Song>
+		<Art>
+			<Title>Untitled</Title>
+			<Url>http://www.dmochowskigallery.net/gfx/db/big/002226.jpg</Url>
+			<Artist>Zdzislaw Beksinski</Artist>
+			<ArtistUrl>http://pl.wikipedia.org/wiki/Zdzis%C5%82aw_Beksi%C5%84ski</ArtistUrl>
+			<Note>We were supposed to go to the museum, remember?</Note>
+		</Art>
+	</DailyData>
+	<DailyData id="23/12/2014">
+		<Text>
+			<Left> </Left>
+			<Center> </Center>
+			<Right> </Right>
+			<Bottom> </Bottom>
+		</Text>
+		<Song>
+			<Title> </Title>
+			<Url> </Url>
+			<Artist> </Artist>
+			<ArtistUrl> </ArtistUrl>
+			<Note> </Note>
+		</Song>
+		<Art>
+			<Title> </Title>
+			<Url> </Url>
+			<Artist> </Artist>
+			<ArtistUrl> </ArtistUrl>
+			<Note> </Note>
+		</Art>
+		</DailyData>
 	<DailyData id="24/12/2014">
 	<Text>
 		<Left>I</Left>
@@ -241,5 +285,93 @@
 		<ArtistUrl></ArtistUrl>
 		<Note></Note>
 	</Art>
+	</DailyData>
+	<DailyData id="25/12/2014">
+		<Text>
+			<Left>Happy</Left>
+			<Center>Birthday</Center>
+			<Right>!</Right>
+			<Bottom> </Bottom>
+		</Text>
+		<Song>
+			<Title> </Title>
+			<Url> </Url>
+			<Artist> </Artist>
+			<ArtistUrl> </ArtistUrl>
+			<Note> </Note>
+		</Song>
+		<Art>
+			<Title> </Title>
+			<Url> </Url>
+			<Artist> </Artist>
+			<ArtistUrl> </ArtistUrl>
+			<Note> </Note>
+		</Art>
+	</DailyData>
+	<DailyData id="26/12/2014">
+		<Text>
+			<Left> </Left>
+			<Center> </Center>
+			<Right> </Right>
+			<Bottom> </Bottom>
+		</Text>
+		<Song>
+			<Title> </Title>
+			<Url> </Url>
+			<Artist> </Artist>
+			<ArtistUrl> </ArtistUrl>
+			<Note> </Note>
+		</Song>
+		<Art>
+			<Title> </Title>
+			<Url> </Url>
+			<Artist> </Artist>
+			<ArtistUrl> </ArtistUrl>
+			<Note> </Note>
+		</Art>
+	</DailyData>
+	<DailyData id="27/12/2014">
+		<Text>
+			<Left> </Left>
+			<Center> </Center>
+			<Right> </Right>
+			<Bottom> </Bottom>
+		</Text>
+		<Song>
+			<Title> </Title>
+			<Url> </Url>
+			<Artist> </Artist>
+			<ArtistUrl> </ArtistUrl>
+			<Note> </Note>
+		</Song>
+		<Art>
+			<Title> </Title>
+			<Url> </Url>
+			<Artist> </Artist>
+			<ArtistUrl> </ArtistUrl>
+			<Note> </Note>
+		</Art>
+	</DailyData>
+	<DailyData id="28/12/2014">
+		<Text>
+			<Left> </Left>
+			<Center> </Center>
+			<Right> </Right>
+			<Bottom> </Bottom>
+		</Text>
+		<Song>
+			<Title> </Title>
+			<Url> </Url>
+			<Artist> </Artist>
+			<ArtistUrl> </ArtistUrl>
+			<Note> </Note>
+		</Song>
+		<Art>
+			<Title> </Title>
+			<Url> </Url>
+			<Artist> </Artist>
+			<ArtistUrl> </ArtistUrl>
+			<Note> </Note>
+		</Art>
 	</DailyData>
 </SiteData>
