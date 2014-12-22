@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <SiteData>
 	<DailyData id="template">
 		<Text>
@@ -245,25 +245,39 @@
 	<DailyData id="23/12/2014">
 		<Text>
 			<Left> </Left>
-			<Center> </Center>
+			<Center>If the music be the food of love, play on</Center>
 			<Right> </Right>
-			<Bottom> </Bottom>
+			<Bottom>Thy mind's loving embrace has ofttimes found it's path through the obscured marshes of mine. Come day your blaze withers - hasten to the haven of my arms and feel a fraction of the bliss you have granted me with.</Bottom>
 		</Text>
 		<Song>
-			<Title> </Title>
-			<Url> </Url>
-			<Artist> </Artist>
-			<ArtistUrl> </ArtistUrl>
-			<Note> </Note>
+			<Title>Morceaux de fantaisie</Title>
+			<Url>https://www.youtube.com/watch?v=Hvsgqo2E6vg</Url>
+			<Artist>Sergei Rachmaninoff</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Sergei_Rachmaninoff</ArtistUrl>
+			<Note>Fade far away, dissolve, and quite forget what thou among the leaves hast never known...</Note>
 		</Song>
 		<Art>
-			<Title> </Title>
-			<Url> </Url>
-			<Artist> </Artist>
-			<ArtistUrl> </ArtistUrl>
-			<Note> </Note>
+			<Title>Pictures at an Exhibition</Title>
+			<Url>https://www.youtube.com/watch?v=kkC3chi_ysw</Url>
+			<Artist>Modest Mussorgsky</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Modest_Mussorgsky</ArtistUrl>
+			<Note>Or was it Viktor Hartmann who painted them? Well, not for me!</Note>
 		</Art>
-		</DailyData>
+		<CSS>
+			<UpperSentenceStyle>sentence first col-lg-8</UpperSentenceStyle>
+			<LeftWordsStyle>fancyText</LeftWordsStyle>
+			<CenterAdornmentStyle>none</CenterAdornmentStyle>
+			<CenterWordsStyle>fancyText</CenterWordsStyle>
+			<RightWordsStyle>fancyText</RightWordsStyle>
+			<BottomSentenceStyle>sentence</BottomSentenceStyle>
+			<BottomTextStyle>fancyTextSmallGray</BottomTextStyle>
+		</CSS>
+		<Image>
+			<ImageContainerStyle>cherryBlossomsContainer</ImageContainerStyle>
+			<ImageStyle>cherryBlossomsImage</ImageStyle>
+			<ImageSource>cherry-blossoms.png</ImageSource>
+		</Image>
+	</DailyData>
 	<DailyData id="24/12/2014">
 	<Text>
 		<Left>I</Left>

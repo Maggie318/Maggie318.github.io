@@ -10,18 +10,26 @@
 </head>
 <body>
 	<div class="container">
-		<div class="sentence first" id="upperSentence">
-			<span class="outsideCircleText" id="left" data-bind="text: leftHandWords"></span>
-			<div class="circle">
-				<span class="insideCircleText"  data-bind="text: insideCircleWords"></span>
+		<div class="row">
+			<div data-bind="css: upperSentenceStyle" id="upperSentence">
+				<span id="left" data-bind="css: leftWordsStyle, text: leftWords"></span>
+				<div data-bind="css: centerAdornment">
+					<span data-bind="css: centerWordsStyle, text: insideCircleWords"></span>
+				</div>
+				<span id="right" data-bind="css: rightWordsStyle, text: rightWords"></span>
 			</div>
-			<span class="outsideCircleText" id="right" data-bind="text: rightHandWords"></span>
+			<div data-bind="css: imageContainerStyle">
+				<img data-bind="attr: { src: imageSource }, css: imageStyle"></img>
+			</div>
 		</div>
 		<div class="clearfix"></div>
-		<div class="sentence">
-			<span class="bottomText" data-bind="text: bottomSentence"></span>
-	
-			<div class="row rowOffset normalText">
+		<div class="row rowOffset">
+			<div data-bind="css: bottomSentenceStyle">
+				<span data-bind="css: bottomTextStyle, text: bottomSentence"></span>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+		<div class="row rowOffset normalText">
 				<div class="col-md-6">
 						<span class="normalText">Fancy a song?</span>
 						</br>
@@ -40,13 +48,11 @@
 						</br>
 						<span data-bind="text: artNote"></span>
 				</div>
-			</div>
 		</div>
 	</div>
 </body>
 
 </html>
 
-<script type='text/javascript' src='sentenceGenerator.js'></script>
-<script type='text/javascript' src='textfillOptions.js'></script>
-
+<script type='text/javascript' src='appViewModel.js'></script>
+<script type='text/javascript' src='textfillFactory.js'></script>
