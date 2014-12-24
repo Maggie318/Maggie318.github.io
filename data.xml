@@ -320,22 +320,37 @@
 			<Left>Happy</Left>
 			<Center>Birthday</Center>
 			<Right>!</Right>
-			<Bottom> </Bottom>
+			<Bottom>I love you :)</Bottom>
 		</Text>
 		<Song>
-			<Title> </Title>
-			<Url> </Url>
-			<Artist> </Artist>
-			<ArtistUrl> </ArtistUrl>
-			<Note> </Note>
+			<Title>Oxygen</Title>
+			<Url>https://www.youtube.com/watch?v=CoFlhwiHx14</Url>
+			<Artist>Willy Mason</Artist>
+			<ArtistUrl>https://www.youtube.com/channel/UC-7GSS6dQU56yaa_Nwsxyug</ArtistUrl>
+			<Note>His new album is cool!</Note>
 		</Song>
 		<Art>
-			<Title> </Title>
-			<Url> </Url>
-			<Artist> </Artist>
-			<ArtistUrl> </ArtistUrl>
-			<Note> </Note>
+			<Title>La Goulue at the Moulin Rouge</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/8/8a/Toulouse-Lautrec_-_La_Goulue_arrivant_au_Moulin_Rouge.jpg</Url>
+			<Artist>Henri de Toulouse-Lautrec</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Henri_de_Toulouse-Lautrec</ArtistUrl>
+			<Note>We can be lovers~~</Note>
 		</Art>
+		<CSS>
+		<UpperSentenceStyle>sentence first col-lg-8</UpperSentenceStyle>
+		<LeftWordsStyle>outsideCircleText</LeftWordsStyle>
+		<CenterAdornmentStyle>circle</CenterAdornmentStyle>
+		<CenterWordsStyle>insideCircleText</CenterWordsStyle>
+		<RightWordsStyle>outsideCircleText</RightWordsStyle>
+		<BottomSentenceStyle>sentence</BottomSentenceStyle>
+		<BottomTextStyle>bottomText</BottomTextStyle>
+		<BodyStyle>normalBody</BodyStyle>
+	</CSS>
+	<Image>
+		<ImageContainerStyle>pusheenChristmassContainer</ImageContainerStyle>
+		<ImageStyle>pusheenChristmassImage</ImageStyle>
+		<ImageSource>pusheen_birthday_cake.png</ImageSource>
+	</Image>
 	</DailyData>
 	<DailyData id="26/12/2014">
 		<Text>

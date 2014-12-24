@@ -4,6 +4,9 @@ html{
 	-webkit-font-smoothing: antialiased;
 }
 
+.normalBody{
+}
+
 .sentence{
 	text-align: center;
 	display: block;
@@ -22,10 +25,10 @@ html{
 
 .outsideCircleText {
 	position: relative;
-	bottom: 100px;	
+	bottom: 110px;
 	font-family: 'Annie Use Your Telescope', cursive;
 	font-size: 120px;
-	color: black; 	
+	color: black;
 }
 #left{
 	right: 15px;
