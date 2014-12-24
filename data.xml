@@ -264,7 +264,7 @@
 			<Note>Or was it Viktor Hartmann who painted them? Well, not for me!</Note>
 		</Art>
 		<CSS>
-			<UpperSentenceStyle>sentence first col-lg-8</UpperSentenceStyle>
+			<UpperSentenceStyle>sentence first col-lg-10</UpperSentenceStyle>
 			<LeftWordsStyle>fancyText</LeftWordsStyle>
 			<CenterAdornmentStyle>none</CenterAdornmentStyle>
 			<CenterWordsStyle>fancyText</CenterWordsStyle>
@@ -283,22 +283,36 @@
 		<Left>I</Left>
 		<Center>Want</Center>
 		<Right>to be by your side</Right>
-		<Bottom>For the whole day...    Anyway Merry Christmas! </Bottom>
+		<Bottom>For the whole day today...    Anyway Merry Christmas! </Bottom>
 	</Text>
 	<Song>
 		<Title>Dear God</Title>
-		<Url></Url>
-		<Artist></Artist>
-		<ArtistUrl></ArtistUrl>
-		<Note></Note>
+		<Url>https://www.youtube.com/watch?v=IHmTqoLjlXo</Url>
+		<Artist>XTC</Artist>
+		<ArtistUrl>https://www.youtube.com/channel/UCgsgbGAPI68KlnBRGFMtRuA</ArtistUrl>
+		<Note> </Note>
 	</Song>
 	<Art>
-		<Title></Title>
-		<Url></Url>
-		<Artist></Artist>
-		<ArtistUrl></ArtistUrl>
-		<Note></Note>
+		<Title>Self-Portrait with Masks</Title>
+		<Url>http://uploads2.wikiart.org/images/james-ensor/self-portrait-with-masks-1899.jpg</Url>
+		<Artist>James Ensor</Artist>
+		<ArtistUrl>http://en.wikipedia.org/wiki/James_Ensor</ArtistUrl>
+		<Note> </Note>
 	</Art>
+	<CSS>
+			<UpperSentenceStyle>sentence first col-lg-8</UpperSentenceStyle>
+			<LeftWordsStyle>outsideCircleText</LeftWordsStyle>
+			<CenterAdornmentStyle>circle</CenterAdornmentStyle>
+			<CenterWordsStyle>insideCircleText</CenterWordsStyle>
+			<RightWordsStyle>outsideCircleText</RightWordsStyle>
+			<BottomSentenceStyle>sentence</BottomSentenceStyle>
+			<BottomTextStyle>normalText</BottomTextStyle>
+		</CSS>
+		<Image>
+			<ImageContainerStyle>cherryBlossomsContainer</ImageContainerStyle>
+			<ImageStyle>cherryBlossomsImage</ImageStyle>
+			<ImageSource>Evergreen.png</ImageSource>
+		</Image>
 	</DailyData>
 	<DailyData id="25/12/2014">
 		<Text>

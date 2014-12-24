@@ -24,7 +24,7 @@ html{
 	position: relative;
 	bottom: 100px;	
 	font-family: 'Annie Use Your Telescope', cursive;
-	font-size: 120px;
+	font-size: 72px;
 	color: black; 	
 }
 #left{
@@ -83,14 +83,13 @@ html{
 
 .cherryBlossomsContainer{
 	display: flex;
-	margin-bottom: 30%;
 }
 .cherryBlossomsImage{
 	position: absolute;
 	top: 20px;
 	right: 5px;
-	width: 600px;
-	height:auto;
+	width: auto;
+	height:400px;
 	margin: 1px;
 	z-index: -1;
 }

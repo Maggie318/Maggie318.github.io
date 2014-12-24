@@ -69,6 +69,8 @@ function getData()
 
 		var currentId = dd + "/" + mm + "/" + yyyy;
 
+		currentId= "24/12/2014";
+		
 		data.leftWords = xmlDoc.getElementById(currentId).getElementsByTagName("Text")[0].getElementsByTagName("Left")[0].childNodes[0].nodeValue;
 		data.insideCircleWords = xmlDoc.getElementById(currentId).getElementsByTagName("Text")[0].getElementsByTagName("Center")[0].childNodes[0].nodeValue;
 		data.rightWords = xmlDoc.getElementById(currentId).getElementsByTagName("Text")[0].getElementsByTagName("Right")[0].childNodes[0].nodeValue;
