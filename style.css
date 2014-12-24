@@ -24,7 +24,7 @@ html{
 	position: relative;
 	bottom: 100px;	
 	font-family: 'Annie Use Your Telescope', cursive;
-	font-size: 72px;
+	font-size: 120px;
 	color: black; 	
 }
 #left{
@@ -81,6 +81,14 @@ html{
 
 }
 
+.outsideCircleTextChristmass {
+	position: relative;
+	bottom: 100px;	
+	font-family: 'Annie Use Your Telescope', cursive;
+	font-size: 72px;
+	color: black; 	
+}
+
 .cherryBlossomsContainer{
 	display: flex;
 }
@@ -88,6 +96,23 @@ html{
 	position: absolute;
 	top: 20px;
 	right: 5px;
+	width: auto;
+	height:400px;
+	margin: 1px;
+	z-index: -1;
+}
+
+.pusheenPink{
+	background-color: #FBF0E4;
+}
+
+.pusheenChristmassContainer{
+	display: flex;
+}
+.pusheenChristmassImage{
+	position: absolute;
+	top: 20px;
+	right: 50px;
 	width: auto;
 	height:400px;
 	margin: 1px;

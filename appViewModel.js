@@ -45,7 +45,9 @@ function getData()
 		
 		imageContainerStyle: "none",
 		imageStyle: "none",
-		imageSource: ""
+		imageSource: "",
+
+		bodySyle: ""
 	};
 
 	try{
@@ -85,6 +87,7 @@ function getData()
 		data.artistName = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("Artist")[0].childNodes[0].nodeValue;
 		data.artistUrl = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("ArtistUrl")[0].childNodes[0].nodeValue;
 		data.artNote = xmlDoc.getElementById(currentId).getElementsByTagName("Art")[0].getElementsByTagName("Note")[0].childNodes[0].nodeValue;
+
 		try
 		{
 			data.upperSentenceStyle = xmlDoc.getElementById(currentId).getElementsByTagName("CSS")[0].getElementsByTagName("UpperSentenceStyle")[0].childNodes[0].nodeValue;
@@ -99,6 +102,7 @@ function getData()
 			data.imageSource = xmlDoc.getElementById(currentId).getElementsByTagName("Image")[0].getElementsByTagName("ImageSource")[0].childNodes[0].nodeValue;
 			data.imageContainerStyle = xmlDoc.getElementById(currentId).getElementsByTagName("Image")[0].getElementsByTagName("ImageContainerStyle")[0].childNodes[0].nodeValue;
 			data.imageStyle = xmlDoc.getElementById(currentId).getElementsByTagName("Image")[0].getElementsByTagName("ImageStyle")[0].childNodes[0].nodeValue;
+			data.bodyStyle = xmlDoc.getElementById(currentId).getElementsByTagName("CSS")[0].getElementsByTagName("BodyStyle")[0].childNodes[0].nodeValue;
 		}
 		catch (err)
 		{
@@ -145,6 +149,8 @@ function AppDataModel()
 	this.imageContainerStyle = this.data.imageContainerStyle;
 	this.imageStyle = this.data.imageStyle;
 	this.imageSource = this.data.imageSource;
+	
+	this.bodyStyle = this.data.bodyStyle;
 }
 
 ko.applyBindings(new AppDataModel());

@@ -300,19 +300,20 @@
 		<Note> </Note>
 	</Art>
 	<CSS>
-			<UpperSentenceStyle>sentence first col-lg-8</UpperSentenceStyle>
-			<LeftWordsStyle>outsideCircleText</LeftWordsStyle>
-			<CenterAdornmentStyle>circle</CenterAdornmentStyle>
-			<CenterWordsStyle>insideCircleText</CenterWordsStyle>
-			<RightWordsStyle>outsideCircleText</RightWordsStyle>
-			<BottomSentenceStyle>sentence</BottomSentenceStyle>
-			<BottomTextStyle>normalText</BottomTextStyle>
-		</CSS>
-		<Image>
-			<ImageContainerStyle>cherryBlossomsContainer</ImageContainerStyle>
-			<ImageStyle>cherryBlossomsImage</ImageStyle>
-			<ImageSource>Evergreen.png</ImageSource>
-		</Image>
+		<UpperSentenceStyle>sentence first col-lg-8</UpperSentenceStyle>
+		<LeftWordsStyle>outsideCircleTextChristmass</LeftWordsStyle>
+		<CenterAdornmentStyle>circle</CenterAdornmentStyle>
+		<CenterWordsStyle>insideCircleText</CenterWordsStyle>
+		<RightWordsStyle>outsideCircleTextChristmass</RightWordsStyle>
+		<BottomSentenceStyle>sentence</BottomSentenceStyle>
+		<BottomTextStyle>normalText</BottomTextStyle>
+		<BodyStyle>pusheenPink</BodyStyle>
+	</CSS>
+	<Image>
+		<ImageContainerStyle>pusheenChristmassContainer</ImageContainerStyle>
+		<ImageStyle>pusheenChristmassImage</ImageStyle>
+		<ImageSource>merry_christmass_pusheen.gif</ImageSource>
+	</Image>
 	</DailyData>
 	<DailyData id="25/12/2014">
 		<Text>
