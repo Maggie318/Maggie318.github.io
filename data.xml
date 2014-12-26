@@ -354,24 +354,24 @@
 	</DailyData>
 	<DailyData id="26/12/2014">
 		<Text>
-			<Left> </Left>
-			<Center> </Center>
-			<Right> </Right>
-			<Bottom> </Bottom>
+			<Left>Have a nice</Left>
+			<Center>day</Center>
+			<Right>at work</Right>
+			<Bottom>I'll be waiting for you</Bottom>
 		</Text>
 		<Song>
-			<Title> </Title>
-			<Url> </Url>
-			<Artist> </Artist>
-			<ArtistUrl> </ArtistUrl>
-			<Note> </Note>
+			<Title>The Prettiest</Title>
+			<Url>https://www.youtube.com/watch?v=xflXY_sJGhc</Url>
+			<Artist>Adna</Artist>
+			<ArtistUrl>https://soundcloud.com/adna-kadic</ArtistUrl>
+			<Note>'Coz you're the prettiest</Note>
 		</Song>
 		<Art>
-			<Title> </Title>
-			<Url> </Url>
-			<Artist> </Artist>
-			<ArtistUrl> </ArtistUrl>
-			<Note> </Note>
+			<Title>Girl in a Chemise</Title>
+			<Url>http://m.iphotoscrap.com/Image/583/1268979317.jpg</Url>
+			<Artist>Pablo Picasso</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Pablo_Picasso</ArtistUrl>
+			<Note>Just so you know Picasso could paint</Note>
 		</Art>
 	</DailyData>
 	<DailyData id="27/12/2014">
