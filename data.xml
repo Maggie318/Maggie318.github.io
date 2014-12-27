@@ -398,24 +398,24 @@
 	</DailyData>
 	<DailyData id="28/12/2014">
 		<Text>
-			<Left> </Left>
-			<Center> </Center>
-			<Right> </Right>
-			<Bottom> </Bottom>
+			<Left>Will I</Left>
+			<Center>see</Center>
+			<Right>you today?</Right>
+			<Bottom>I would be happy to!</Bottom>
 		</Text>
 		<Song>
-			<Title> </Title>
-			<Url> </Url>
-			<Artist> </Artist>
-			<ArtistUrl> </ArtistUrl>
-			<Note> </Note>
+			<Title>Old Town</Title>
+			<Url>https://www.youtube.com/watch?v=D2afcdcEOaw</Url>
+			<Artist>Russell Shaw</Artist>
+			<ArtistUrl>https://www.youtube.com/watch?v=YOK0mUbu-Ys</ArtistUrl>
+			<Note>Fable's music is so good</Note>
 		</Song>
 		<Art>
-			<Title> </Title>
-			<Url> </Url>
-			<Artist> </Artist>
-			<ArtistUrl> </ArtistUrl>
-			<Note> </Note>
+			<Title>Breakfast Table with Blackberry Pie</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/4/4a/Heda,_Willem_Claeszoon_-_Breakfast_Table_with_Blackberry_Pie_-_WGA.jpg</Url>
+			<Artist>Willem Claeszoon Heda</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Willem_Claeszoon_Heda</ArtistUrl>
+			<Note>Gorgeous!</Note>
 		</Art>
 	</DailyData>
 </SiteData>
