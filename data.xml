@@ -345,7 +345,7 @@
 		<BottomSentenceStyle>sentence</BottomSentenceStyle>
 		<BottomTextStyle>bottomText</BottomTextStyle>
 		<BodyStyle>normalBody</BodyStyle>
-	</CSS>
+		</CSS>
 	<Image>
 		<ImageContainerStyle>pusheenChristmassContainer</ImageContainerStyle>
 		<ImageStyle>pusheenChristmassImage</ImageStyle>
@@ -416,6 +416,72 @@
 			<Artist>Willem Claeszoon Heda</Artist>
 			<ArtistUrl>http://en.wikipedia.org/wiki/Willem_Claeszoon_Heda</ArtistUrl>
 			<Note>Gorgeous!</Note>
+		</Art>
+	</DailyData>
+	<DailyData id="29/12/2014">
+		<Text>
+			<Left>I</Left>
+			<Center>want</Center>
+			<Right>you</Right>
+			<Bottom>It's a shame I can't have you</Bottom>
+		</Text>
+		<Song>
+			<Title>Earthshine</Title>
+			<Url>https://www.youtube.com/watch?v=A9QaOATItFE&amp;index=1&amp;list=PL9B9BF30BB9D73C34</Url>
+			<Artist>Tides From Nebula</Artist>
+			<ArtistUrl>http://soundcloud.com/tidesfromnebula</ArtistUrl>
+			<Note>They haven't used any digital processing on any of their songs, cool</Note>
+		</Song>
+		<Art>
+			<Title>Self-portrait</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Mary_Cassatt_-_Portrait_of_the_Artist_-_MMA_1975.319.1.jpg/640px-Mary_Cassatt_-_Portrait_of_the_Artist_-_MMA_1975.319.1.jpg</Url>
+			<Artist>Mary Cassatt</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Willem_Claeszoon_Heda</ArtistUrl>
+			<Note>A famous American painter</Note>
+		</Art>
+	</DailyData>
+	<DailyData id="30/12/2014">
+		<Text>
+			<Left>Me + U = </Left>
+			<Center>♥</Center>
+			<Right> </Right>
+			<Bottom>Me - U = :(</Bottom>
+		</Text>
+		<Song>
+			<Title>Sympathy For The Devil</Title>
+			<Url>https://www.youtube.com/watch?v=vBecM3CQVD8</Url>
+			<Artist>The Rolling Stones</Artist>
+			<ArtistUrl>https://www.youtube.com/watch?v=YOK0mUbu-Ys</ArtistUrl>
+			<Note>Have you had the chance to read The Master and Margarita?</Note>
+		</Song>
+		<Art>
+			<Title>The Hunters in the Snow</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_(Winter)_-_Google_Art_Project.jpg</Url>
+			<Artist>Pieter Bruegel the Elder</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Pieter_Bruegel_the_Elder</ArtistUrl>
+			<Note>Do you want to build a snowman?</Note>
+		</Art>
+	</DailyData>
+	<DailyData id="31/12/2014">
+		<Text>
+			<Left>Happy</Left>
+			<Center>New</Center>
+			<Right>Year</Right>
+			<Bottom>We shouldn't have to work today!</Bottom>
+		</Text>
+		<Song>
+			<Title>The Stars (Are Out Tonight)</Title>
+			<Url>https://www.youtube.com/watch?v=gH7dMBcg-gE</Url>
+			<Artist>David Bowie</Artist>
+			<ArtistUrl>https://www.youtube.com/watch?v=YOK0mUbu-Ys</ArtistUrl>
+			<Note>Lot's Of Bowie (Gonna Be Tonite)</Note>
+		</Song>
+		<Art>
+			<Title>Self portrait</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/7/76/Turner_selfportrait.jpg</Url>
+			<Artist>Joseph Mallord William Turner</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/J._M._W._Turner</ArtistUrl>
+			<Note>I encourage you to see other paintings of his</Note>
 		</Art>
 	</DailyData>
 </SiteData>
