@@ -484,4 +484,26 @@
 			<Note>I encourage you to see other paintings of his</Note>
 		</Art>
 	</DailyData>
+	<DailyData id="01/01/2015">
+		<Text>
+			<Left>I</Left>
+			<Center>love</Center>
+			<Right>You</Right>
+			<Bottom>I'm taking a break from this site, ask me why!</Bottom>
+		</Text>
+		<Song>
+			<Title>Shelter Song</Title>
+			<Url>https://www.youtube.com/watch?v=vs4i41cOv0s</Url>
+			<Artist>Temples</Artist>
+			<ArtistUrl>https://www.youtube.com/user/TemplesVEVO</ArtistUrl>
+			<Note>Back to the '60s!</Note>
+		</Song>
+		<Art>
+			<Title>Impression, Sunrise</Title>
+			<Url>http://upload.wikimedia.org/wikipedia/commons/5/54/Claude_Monet,_Impression,_soleil_levant.jpg</Url>
+			<Artist>Claude Monet</Artist>
+			<ArtistUrl>http://en.wikipedia.org/wiki/Claude_Monet</ArtistUrl>
+			<Note>The one that started a new era</Note>
+		</Art>
+	</DailyData>
 </SiteData>
